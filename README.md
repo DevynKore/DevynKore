@@ -1,7 +1,6 @@
 - @DevynKore
 - Life long learner currently enrolled at Boise State University.
-- Major: Computer Systems Engineering
-- Minor: Applied Mathematics 
+- Major: Computer Engineering
 - Creating the building blocks for a career in cutting edge breakthroughs. 
 
 
