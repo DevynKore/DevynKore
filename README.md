@@ -1,7 +1,7 @@
 - @DevynKore
-- Life long learner currently enrolled at Boise State University.
-- Major: Computer Engineering
-- Creating the building blocks for a career in cutting edge breakthroughs. 
+- Boise State University, Go Broncos
+- Computer Engineering
+- Pyro Maniac
 
 
 <!---
