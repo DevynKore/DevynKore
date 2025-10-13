@@ -1,7 +1,7 @@
 - @DevynKore
 - Boise State University, Go Broncos
 - Computer Engineering
-- Pyro Maniac
+- Pyro
 
 
 <!---
