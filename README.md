@@ -1,6 +1,5 @@
 - @DevynKore
-- Coding to sell
-- Selling to code
+  coding to sell, selling to code
 
 
 <!---
