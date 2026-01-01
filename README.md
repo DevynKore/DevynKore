@@ -1,5 +1,5 @@
 - @DevynKore
-  coding to sell, selling to code
+  Build stuff Now. 
 
 
 <!---
