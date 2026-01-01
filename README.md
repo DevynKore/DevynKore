@@ -1,7 +1,6 @@
 - @DevynKore
-- Boise State University, Go Broncos
-- Computer Engineering
-- Pyro
+- Coding to sell
+- Selling to code
 
 
 <!---
